@@ -1,22 +1,43 @@
-Personal Portfolio
-This is my personal portfolio website built using React, Vite, and Tailwind CSS. The portfolio showcases my projects, skills, and experience in web development.
+# Personal Portfolio
 
-Features
-Responsive Design: Fully optimized for all devices.
-Interactive UI: Smooth animations and transitions for a better user experience.
-Projects Showcase: Highlighting key projects with descriptions and links.
+This is my personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**. The portfolio showcases my projects, skills, and experience in web development.
 
-Technologies Used
-React: For building the UI components.
-Vite: For a fast development environment and build process.
-Tailwind CSS: For styling and layout.
+## 🚀 Features
 
-Deployment
-The portfolio is deployed using Vercel. Check it out here.
+- **Responsive Design**: Fully optimized for all devices.
+- **Interactive UI**: Smooth animations and transitions for a better user experience.
+- **Projects Showcase**: Highlighting key projects with descriptions and links.
 
-Contact
+## 🛠️ Technologies Used
+
+- **React**: For building the UI components.
+- **Vite**: For a fast development environment and build process.
+- **Tailwind CSS**: For styling and layout.
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Start the development server:
+   ```bash
+   npm run dev  
+
+## 🌐 Deployment
+The portfolio is deployed using Netlify / Vercel.
+Check it out here.
+
+## 📬 Contact
 Feel free to reach out via:
 
-Email: fayezghufran8573@gmail.com
-LinkedIn: www.linkedin.com/in/fayez-ghufran
-
+**Email**: fayezghufran8573@gmail.com
+**LinkedIn**: www.linkedin.com/in/fayez-ghufran
