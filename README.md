@@ -33,8 +33,8 @@ This is my personal portfolio website built using **React**, **Vite**, and **Tai
    npm run dev  
 
 ## 🌐 Deployment
-The portfolio is deployed using Netlify / Vercel.
-Check it out here.
+The portfolio is deployed using Vercel.
+Check it out https://fayez-portfolio-xi.vercel.app/.
 
 ## 📬 Contact
 Feel free to reach out via:
