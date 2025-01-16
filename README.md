@@ -41,3 +41,5 @@ Feel free to reach out via:
 
 **Email**: fayezghufran8573@gmail.com
 **LinkedIn**: www.linkedin.com/in/fayez-ghufran
+
+⭐ If you like this project, please give it a star!
