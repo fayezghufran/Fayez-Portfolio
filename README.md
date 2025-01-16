@@ -18,7 +18,7 @@ This is my personal portfolio website built using **React**, **Vite**, and **Tai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   https://github.com/fayezghufran/Fayez-Portfolio.git
 
 2. Navigate to the project directory:
    ```bash
