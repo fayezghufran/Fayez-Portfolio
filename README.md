@@ -1,8 +1,22 @@
-# React + Vite
+Personal Portfolio
+This is my personal portfolio website built using React, Vite, and Tailwind CSS. The portfolio showcases my projects, skills, and experience in web development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Responsive Design: Fully optimized for all devices.
+Interactive UI: Smooth animations and transitions for a better user experience.
+Projects Showcase: Highlighting key projects with descriptions and links.
 
-Currently, two official plugins are available:
+Technologies Used
+React: For building the UI components.
+Vite: For a fast development environment and build process.
+Tailwind CSS: For styling and layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployment
+The portfolio is deployed using Vercel. Check it out here.
+
+Contact
+Feel free to reach out via:
+
+Email: fayezghufran8573@gmail.com
+LinkedIn: www.linkedin.com/in/fayez-ghufran
+
